@@ -1,0 +1,11 @@
+body {
+    text-align:center;
+    margin: auto;
+    padding: 90px 50px;
+    background-color: skyblue;
+}
+h1 {
+    text-align:center;
+    color:orange;
+    padding: 20px;
+}
